@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=esh-07.esh-07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Machine+Learning+Engineer+,+Software+Engineer;+I'm+Eshaan+Chaturvedi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=5000&lines=Machine+Learning+Engineer+,+Software+Engineer;+I'm+Eshaan+Chaturvedi!👋;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
