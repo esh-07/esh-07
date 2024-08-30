@@ -1,4 +1,4 @@
-![Header](./github-header-image-(2).png)
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=esh-07&txt=Machine%20Learning%20Engineer%20and%20Software%20Developer" alt="Banner"></p>
 <h1 align="center">Hi 👋, I'm Eshaan Chaturvedi</h1>
 <h3 align="center">A Dedicated Machine Learning Engineer and Software Developer from India 🇮🇳</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" />
