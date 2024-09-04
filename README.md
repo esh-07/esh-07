@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Automation of Video Games through Reinforcement Learning**
+ 🔭 I’m currently working on **Building different types of LLM's from scratch and through API's**
  
  🌱 I’m currently learning **AWS, Flutter, Docker**
 
