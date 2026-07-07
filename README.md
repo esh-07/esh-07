@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Machine+Learning+Engineer+,+Software+Engineer;+I'm+Eshaan+Chaturvedi!👋;" />
 </h1>
 
-<h3 align="center">A Dedicated Machine Learning Engineer and Software Developer from India 🇮🇳</h3>
+<h3 align="center">A Dedicated Machine Learning Engineer and Software Developer</h3>
 
 <br/>
 
